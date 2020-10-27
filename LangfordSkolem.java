@@ -8,7 +8,7 @@ import java.io.*;
 import java.util.*;
 import java.lang.*;
 
-public class DrGuyRevised
+public class LangfordSkolem
 {
 	private static int n=15;
 	private static int counter=0;
